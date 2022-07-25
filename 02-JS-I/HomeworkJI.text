@@ -1,0 +1,5 @@
+Variables : es un espacio de memoria que puede ser modificado en cualquier momento
+String : es un tipo de dato y se escribe entre ""
+Funciones : son objectos que se pueden invocar varias veces 
+if : es un condicional si se cumple la condicion se hara una tarea si no, no se realiza
+valores booleanos: true es verdadero si se cumple la condiciones retornara true si no se cumple retorna false.
